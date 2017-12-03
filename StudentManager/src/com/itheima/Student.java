@@ -1,13 +1,13 @@
 package com.itheima;
 
 public class Student {
-	// Ñ§ºÅ
+	//id
 	private String id;
-	// ĞÕÃû
+	// å§“å
 	private String name;
-	// ÄêÁä
+	// å¹´é¾„
 	private String age;
-	// ×¡Ö·
+	// åœ°å€
 	private String address;
 
 	public Student() {
